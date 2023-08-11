@@ -1,0 +1,5 @@
+# Ignore pasta "lib"
+assets/lib
+
+#Ignore arquivo "codes.txt"
+codes.txt
