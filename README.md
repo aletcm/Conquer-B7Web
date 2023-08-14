@@ -11,6 +11,6 @@
 
 ![Captura de tela 2023-08-11 104712](https://github.com/aletcm/Conquer-B7Web/assets/74436963/bbd874a1-992c-4aa8-bb09-8abaf187e892)
 
-![Captura de tela 2023-08-11 104808](https://github.com/aletcm/Conquer-B7Web/assets/74436963/b9f99a97-87e6-4f23-9162-758e641ac880)
+<img style="width: 40%" src="https://github.com/aletcm/Conquer-B7Web/assets/74436963/b9f99a97-87e6-4f23-9162-758e641ac880"/>
 
-![Captura de tela 2023-08-11 104850](https://github.com/aletcm/Conquer-B7Web/assets/74436963/c58cdb91-70c9-4b01-88fb-0613e176f62e)
+<img style="width: 40%" src="https://github.com/aletcm/Conquer-B7Web/assets/74436963/c58cdb91-70c9-4b01-88fb-0613e176f62e"/>
