@@ -64,7 +64,7 @@ $(function() {
 
     $('.link').click(function() {
         let id = $(this).attr('href')
-        let topTarget = $(id).offset().top
+        let topTarget = ($(id).offset().top).toFixed(0)
 
         stopScrollMenu(id, topTarget)
         
