@@ -59,7 +59,7 @@ $(function() {
         
         setTimeout(() => {
             startScrollMenu()
-        }, 820)
+        }, 800)
     }
 
     $('.link').click(function() {
